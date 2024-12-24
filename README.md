@@ -36,3 +36,5 @@ Smooth responsive transitions
 Form validation using JavaScript
 Proper spacing and typography
 Loading under 3 seconds
+
+Liveweb site link :- https://verjotprojectlandingpage.netlify.app
